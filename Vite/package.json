@@ -1,0 +1,15 @@
+{
+  "name": "mini-vite",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "connect": "^3.7.0",
+    "sirv": "^2.0.0",
+    "ws": "^9.0.0",
+    "chokidar": "^3.5.0",
+    "magic-string": "^0.25.7"
+  }
+}
